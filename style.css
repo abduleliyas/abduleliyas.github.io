@@ -238,7 +238,7 @@ p {
     .nav-links {
         position: fixed;
         right: 0px;
-        height: 100vh;
+        height: 110vh;
         top: 0vh;
         background-color: #5077BD;
         display: flex;
