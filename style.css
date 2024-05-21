@@ -98,7 +98,7 @@ p {
  }
 
  .nav-links a {
-    color: rgb(226, 226, 226);
+    color: #FFFFFF;
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
@@ -117,7 +117,7 @@ p {
  }
 
  .burger div {
-    background-color:rgb(226, 226, 226);
+    background-color: #FFFFFF;
     width: 25px;
     height: 3px;
     margin: 5px;
