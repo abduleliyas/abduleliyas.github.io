@@ -344,7 +344,7 @@ p {
     }
 
     .banner {
-        background-position: bottom;
+        background-position: bottom!important;
     }
      
  }
@@ -353,7 +353,7 @@ p {
  @media screen and (max-width: 400px) {
 
      .banner {
-        background-position: bottom;
+        background-position: bottom!important;
     }
      
     .first-page div {
