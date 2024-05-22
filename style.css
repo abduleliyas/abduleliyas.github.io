@@ -76,7 +76,7 @@ p {
      display: flex;
      justify-content: space-around;
      align-items: center;
-     min-height: 26vh;
+     min-height: 16vh;
      background-color: #FD4345;
      font-family: 'Lato', sans-serif;
  }
