@@ -113,7 +113,7 @@ p {
     transition: all 0.3s ease;
  }
 
-.about th {
+.about h1 {
     font-size: 55px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -227,7 +227,7 @@ p {
     }
 
 
-    .about th, .contact h1 {
+    .about h1, .contact h1 {
         font-size: 45px;
         padding: 0px 0 40px 0!important;
     }
