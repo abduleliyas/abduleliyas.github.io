@@ -5,8 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://abduleliyas.github.io/website</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
@@ -23,11 +21,6 @@
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abduleliyas.github.io/website/map</loc>
-  <lastmod>2021-06-01T16:02:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://abduleliyas.github.io/website/contact</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>0.80</priority>
@@ -37,6 +30,4 @@
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
