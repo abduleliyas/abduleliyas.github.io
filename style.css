@@ -151,7 +151,7 @@ p {
  
 }
 
-.contact h3 {
+.contact p {
     font-size: 22px;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
@@ -237,7 +237,7 @@ p {
         padding-bottom: 10px!important;
     }
 
-    .contact h3 {
+    .contact p {
         font-size: 18px;
         letter-spacing: .24em;
         line-height: 1.3em;
