@@ -52,6 +52,10 @@ html, body {
     top: 50%;
 } 
 
+border {
+  border-style: solid;
+  border-color: #FAFAFA;
+}
 
 /* First Page Para */
 
