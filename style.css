@@ -76,7 +76,7 @@ p {
      display: flex;
      justify-content: space-around;
      align-items: center;
-     min-height: 16vh;
+     min-height: 26vh;
      background-color: #FD4345;
      font-family: 'Lato', sans-serif;
  }
@@ -85,7 +85,7 @@ p {
  .nav-links {
      display: flex;
      justify-content: space-around;
-     width: 50%;
+     width: 30%;
  }
 
  .nav-links a {
