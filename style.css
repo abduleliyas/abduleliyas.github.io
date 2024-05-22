@@ -25,7 +25,7 @@ html, body {
     font-family: 'Lato', cursive;
     font-size: 50px;
     font-weight: bold;
-    color: #B13838;
+    color: #FD4345;
     margin: auto;
     max-width: 520px;
     position: relative;
@@ -39,7 +39,7 @@ html, body {
     width: 80px;
     height: 2px;
     position: absolute;
-    background-color: #B13838;
+    background-color: #FD4345;
     left: 0;
     top: 50%;
 
@@ -52,7 +52,7 @@ html, body {
     width: 80px;
     height: 2px;
     position: absolute;
-    background-color: #B13838;
+    background-color: #FD4345;
     right: 0;
     top: 50%;
  
@@ -65,7 +65,7 @@ p {
     
     font-size: 16px;
     font-family: 'Lato', sans-serif;
-    color: #37393B;
+    color: #263547;
     letter-spacing: .5px;
     line-height: 26px;
     font-weight: 300;
@@ -76,7 +76,7 @@ p {
 
 
 .nav-links a:active, .nav-links a:hover {
-    color: #37393B;
+    color: #263547;
 }
 
 
@@ -85,7 +85,7 @@ p {
      justify-content: space-around;
      align-items: center;
      min-height: 16vh;
-     background-color: #B13838;
+     background-color: #FD4345;
      font-family: 'Poppins', sans-serif;
  }
 
@@ -129,7 +129,7 @@ p {
  .about p {
     font-size: 14px;
     font-family: 'Lato', sans-serif;
-    color: #585858;
+    color: #263547;
     letter-spacing: .5px;
     line-height: 22px;
     
@@ -137,7 +137,7 @@ p {
 
 
 .about a {
-    color: #DF6D6D;
+    color: #FD4345;
     text-decoration: none;
 }
 
@@ -146,29 +146,12 @@ p {
 .about th {
     font-size: 55px;
     font-family: 'Lato', sans-serif;
-    color: #37393B;
+    color: #263547;
     letter-spacing: 10px;
     padding: 50px 0 50px 0;
  
 }
 
-
-.map h1 {
-    font-size: 55px;
-    font-family: 'Lato', sans-serif;
-    color: #37393B;
-    letter-spacing: 10px;
-    padding-top: 50px;
-    
-}
-
-.map h2 {
-    font-size: 24px;
-    font-family: 'Dancing Script', cursive;
-    color: #B13838;
-    letter-spacing: .5px;
-    padding: 0 0 50px 400px;
-}
 
 .contact h1 {
     font-size: 55px;
@@ -182,7 +165,7 @@ p {
 .contact h2 {
     font-size: 27px;
     font-family: 'Lato', sans-serif;
-    color: #B13838;
+    color: #FD4345;
     letter-spacing: 0em;
     line-height: 1.3em;
     padding-bottom: 20px;
@@ -192,7 +175,7 @@ p {
 .contact h3 {
     font-size: 22px;
     font-family: 'Lato', sans-serif;
-    color: #B13838;
+    color: #FD4345;
     letter-spacing: .34em;
     line-height: 1.3em;
     padding-bottom: 20px;
@@ -241,7 +224,7 @@ p {
         right: 0px;
         height: 100%;
         top: 0vh;
-        background-color: #B13838;
+        background-color: #FD4345;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -320,7 +303,7 @@ p {
     .divider {
         width: 150px;
         height: 2.2px;
-        background-color: #B13838;
+        background-color: #FD4345;
         display: inline-block;
     }
 
