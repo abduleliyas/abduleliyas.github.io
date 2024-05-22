@@ -342,11 +342,20 @@ p {
     .first-page div {
         max-width: 350px!important;
     }
+
+    .banner {
+        background-position: bottom;
+    }
+     
  }
 
  
  @media screen and (max-width: 400px) {
-    
+
+     .banner {
+        background-position: bottom;
+    }
+     
     .first-page div {
         max-width: 330px!important;
     }
