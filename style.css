@@ -162,6 +162,11 @@ p {
 
 
  @media screen and (max-width: 1160px) {
+
+     .logo img {
+         width: 60px!important;
+     }
+     
     .nav-links {
         width: 50%;
     }
@@ -186,6 +191,12 @@ p {
 
 
  @media screen and (max-width: 768px) {
+
+     .logo img {
+         width: 65px!important;
+     }
+
+     
     body {
        overflow-x: hidden;  
     }
@@ -301,6 +312,11 @@ p {
 
 
 @media screen and (max-width: 550px) {
+
+    .logo img {
+         width: 50px!important;
+     }
+    
     .first-page h1 {
         font-size: 18px;
     }
@@ -333,6 +349,10 @@ p {
 
 
  @media screen and (max-width: 450px) {
+
+     .logo img {
+         width: 50px!important;
+     }
     
     .first-page div {
         max-width: 350px!important;
