@@ -164,7 +164,7 @@ p {
  @media screen and (max-width: 1160px) {
 
      .logo img {
-         width: 60px!important;
+         width: 65px!important;
      }
      
     .nav-links {
@@ -193,7 +193,7 @@ p {
  @media screen and (max-width: 768px) {
 
      .logo img {
-         width: 65px!important;
+         width: 60px!important;
      }
 
      
@@ -314,7 +314,7 @@ p {
 @media screen and (max-width: 550px) {
 
     .logo img {
-         width: 50px!important;
+         width: 55px!important;
      }
     
     .first-page h1 {
