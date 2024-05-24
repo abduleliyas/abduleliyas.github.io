@@ -6,27 +6,22 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 <url>
-  <loc>https://abduleliyas.github.io/website</loc>
+  <loc>https://abduleliyas.github.io</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://abduleliyas.github.io/website/index</loc>
+  <loc>https://abduleliyas.github.io/about</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abduleliyas.github.io/website/about</loc>
+  <loc>https://abduleliyas.github.io/contact</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://abduleliyas.github.io/website/contact</loc>
-  <lastmod>2021-06-01T16:02:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://abduleliyas.github.io/website/CV-AbdulEliyas.pdf</loc>
+  <loc>https://abduleliyas.github.io/CV-AbdulEliyas.pdf</loc>
   <lastmod>2021-06-01T16:02:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
